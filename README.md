@@ -6,8 +6,8 @@
  * spring boot
  * postgresql
  
-    link da api -> https://apirestspringboot.herokuapp.com/api/produtos
-    link do swagger -> https://apirestspringboot.herokuapp.com/swagger-ui.html
+    *link da api -> https://apirestspringboot.herokuapp.com/api/produtos
+    *link do swagger -> https://apirestspringboot.herokuapp.com/swagger-ui.html
  
  
  # front end
