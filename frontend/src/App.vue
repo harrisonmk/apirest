@@ -144,7 +144,7 @@ export default {
           this.errors = e.response.data.errors
         })
       }
-      
+
     }
 
   }
